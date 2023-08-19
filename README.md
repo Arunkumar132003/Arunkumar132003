@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arunkumar132003/Arunkumar132003/assets/96881025/ce1f0a38-4066-4ea5-bc7a-6ab5063cbf46)
+![MasterHead](https://github.com/Arunkumar132003/Arunkumar132003/assets/96881025/ce1f0a38-4066-4ea5-bc7a-6ab5063cbf46)
 <h1 align="center">Hi 👋, I'm Arun Kumar G</h1>
 <h3 align="center">A passionate software developer ,Front-end developer, UI/UX Designer , Data Analyst , Affiliate Marketer from India</h3>
 
