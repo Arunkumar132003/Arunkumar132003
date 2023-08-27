@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Data structures**
 
-- 💬 Ask me about **Python , CSS , UI/UX**
+- 💬 Ask me about **Python , CSS , JavaScript , UI/UX**
 
 - 📫 How to reach me **arunkumar94716@gmail.com**
 
