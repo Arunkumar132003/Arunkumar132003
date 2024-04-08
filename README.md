@@ -4,9 +4,9 @@
 
 <p align="left"> <img align="right" width="400" alt="coding" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" /> </p>
 
-- 🔭 I’m currently working on **Front-end**
+- 🔭 I’m currently working on **Data Science , Machine Learning**
 
-- 🌱 I’m currently learning **Data structures , Javascript**
+- 🌱 I’m currently learning **Data structures , Deep Learning**
 
 - 👯 I’m looking to collaborate on **Front-end related projects**
 
