@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **Data Science , Machine Learning**
 
-- 🌱 I’m currently learning **Data structures , Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Front-end related projects**
+- 👯 I’m looking to collaborate on **AI related projects**
 
-- 🤝 I’m looking for help with **Data structures**
-
-- 💬 Ask me about **Python , CSS , JavaScript , UI/UX**
+- 💬 Ask me about **Python , Machine Learning , Deep Learning**
 
 - 📫 How to reach me **arunkumar94716@gmail.com**
 
