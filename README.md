@@ -4,15 +4,12 @@
 
 <p align="left"> <img align="right" width="400" alt="coding" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg" /> </p>
 
-- 🔭 I’m currently working on **Data Science , Machine Learning**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👯 I’m looking to collaborate on **AI related projects**
-
-- 💬 Ask me about **Python , Machine Learning , Deep Learning**
-
-- 📫 How to reach me **arunkumar94716@gmail.com**
+- 🌟 **Passionate about:** **Data Science & Machine Learning** 🚀  
+- 📖 **Currently diving deep into:** **Generative AI** 🧠  
+- 💼 **Currently working as an ML Intern** at a CRM-based organization with expertise in Voice bots, Working GPT models, Fine tuning LLMs, Prompt Engineering, and QA 🤖
+- 🤝 **Eager to collaborate on:** Cutting-edge **AI/ML projects** 🤖✨  
+- 🛠️ **Proficient in:** **Python, Machine Learning, and AI tools** 🐍💡  
+- 📫 **Reach me at:** [**arunkumar94716@gmail.com**](mailto:arunkumar94716@gmail.com) 💌  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
